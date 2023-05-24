@@ -1,0 +1,25 @@
+body{
+    background-color:teal;
+}
+
+#container-main{
+    margin: 10px;
+    padding: 10px;
+}
+
+#form{
+    border: 2px solid black;
+    padding: 10px;
+    background-color: rgb(130, 211, 36);
+}
+
+#newtable{
+    text-align: center;
+    background-color: rgb(244, 244, 244);
+}
+
+small,sup{
+    color: red;
+}
+
+
